@@ -1,0 +1,1059 @@
+<REAPER_PROJECT 0.1 "7.81/macOS-arm64" 1790648040 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 9.42230272
+  ZOOM 33.48979766803842 160 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN C03-S03-Overlap
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {93F030A6-67C5-B34D-8EC0-DA9CB0E3894B}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F84F7129-DECD-FE47-8ADA-2435216EA414}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {6BB6AD86-EFF0-164D-89AC-FE3D250510A9}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {6C2F47AD-ECD9-9645-A865-8757F77C14F5}
+    NAME C02-S02-CrumbledBag
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C2F47AD-ECD9-9645-A865-8757F77C14F5}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34216B6C-4ED3-9142-9133-2AE402A67003}
+      IID 38
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5A252E3-61F5-D447-8B15-EF7A162CFA3D}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.42857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2286474A-FD11-B644-B277-9F25191EEC2A}
+      IID 41
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFFC6C7A-5075-094C-8CB3-D9E686587F01}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0 0 5.1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACD4FB1E-8DEB-4E4B-91B0-9300C1A01370}
+      IID 37
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D626E0CF-2011-3D41-B901-9B55EBFE0978}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0 0 5.1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E18A2208-0631-514E-AA7E-83A3AC0F227A}
+      IID 37
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22ECFD4D-1372-2647-B1A8-F217422434A0}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.24314368
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0 0 5.1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DA75A85-F01B-DF40-9A94-974E08D556E1}
+      IID 37
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58EAE6F9-8B65-9E49-9BE9-C59E6C494358}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+  >
+  <TRACK {6CACB272-F72F-4242-89D0-4FD173E7A9B8}
+    NAME C02-S02-CrumbledBag
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6CACB272-F72F-4242-89D0-4FD173E7A9B8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.5 1 1 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0474A31C-F3F5-834C-AD2E-14EC6536DF7C}
+      IID 39
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CED5238-B211-084C-84FB-1A741B5ECAAF}
+      <SOURCE SECTION
+        LENGTH 2.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.5 1 1 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0802E987-8470-DD4B-AA92-31CE02E90B44}
+      IID 39
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B503F7E0-D66E-3F49-9F94-2A75CD54E4DF}
+      <SOURCE SECTION
+        LENGTH 2.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00077BE9-8652-BC46-A8B4-CD68A7B0B9BB}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D20554EF-6BD4-DF4B-81D6-7CD8E89CD1CA}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CE74E38-376B-7842-A314-548BBAEBE4AF}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6726BD1D-89D9-2E43-9AAC-4E43612ABAB7}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.0481408
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.08500863998189 4 1 0 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DC34CDE-10D8-6C46-BAE5-43C279E876A1}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D29386C8-A48B-F84A-9242-B320AD5FBE56}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.1974400000181
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.08500863998189 1 1 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEF2BC5A-1B21-8641-A883-F0E542058A60}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45A49CD8-8FDF-294F-AEC4-93C39E809CB5}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.43174784001894
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87EDEA70-C758-DE42-B1A7-DB17208BA45E}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C842471-E8EA-D345-B92E-17FF00FDD6BF}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.66605568001978
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D02C017A-8C21-D64F-85C4-2E5603D1C148}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89F9EA88-D05D-4849-87E9-3EBE1F21BCE5}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.90036352002062
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E8258E1-046F-AF48-86AE-83618BA6B4D7}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAE52197-610F-C84C-BD61-875C515E2EF2}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.13467136002146
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87FFBE45-2EC7-D641-97CF-3285502A38C8}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E743B2FC-2C54-C248-84F0-2B45243F036B}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.3689792000223
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94C3922D-1863-324A-BD9B-3B38E370FD7C}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB7EC2F6-DBE8-4C43-9712-029661E1109F}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.60328704002313
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D72A2F3-5C70-4B4C-A0EA-A16CE8827A79}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24C76441-98DE-8A4D-BBB1-7AE1E006221B}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.83759488002397
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE4EF373-DB8A-3343-9DDC-5E6D265F4993}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50E993AF-163F-AB42-8980-DD294D347F18}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.07190272002481
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FEFBB8B4-30EC-7341-A89A-6A9624924E8D}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D3083BD-871D-A348-85E1-B349568CDF65}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.30621056002565
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52754E8B-7710-E14C-AD9F-CABFB03E1DB0}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F579AA7-318A-494F-AD2F-936D1AAF6B2E}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.54051840002649
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5732946-4B59-5B43-AE44-82BAF3F22ADF}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48302C03-6BC7-C94B-B959-0A5C3E53EBE3}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.77482624002732
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E394E36-0940-3540-8FF6-D6FD6873AE69}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {008052BE-C0FA-554B-89D5-64C84B447EDE}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.00913408002816
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA6B1EBE-3494-E94A-A60B-4909E75F9159}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54E212F2-6D18-4047-AF33-6A7746CF1EE9}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.243441920029
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CE11787-A03B-5A43-8AAD-D71A12454E5C}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AFC2C8E-F423-8048-8A5B-67FB297FA5A2}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.47774976002984
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40CD6F96-8073-3547-9F20-34775D6EA206}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE797E63-85ED-784B-A797-6FB03BC72A4C}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.71205760003068
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {085B45C7-BB38-9240-9906-7797FF0250E1}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1381136B-541C-AC4F-B796-BE135C3303E7}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.94636544003151
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {968E602C-028D-1548-B351-0CBF5A157E8C}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {192147E7-1122-4843-9A80-D261412F4D3A}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.18067328003235
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE193F5C-CD64-D343-A51B-EA0D2D1F08C6}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC9F18B8-80A2-784A-B76E-A7FD43D6519C}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.41498112003319
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83CEC289-76AA-2D40-8D5E-138186A98749}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CFB306B-CB85-7746-9314-4907F4E6C38A}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.64928896003403
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6316CD85-B342-424B-895B-478125C43FD0}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2FA5CD9-99C8-8045-8D53-572C9322E398}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.88359680003487
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39DB78C8-5F3B-3E47-9BFA-8C69A8549021}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E77102B-AAF5-AE4F-B2DD-1CC2C98ECBD5}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.1179046400357
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88824F94-7A26-5442-9B7D-867C0933595A}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8E7B734-A7BC-EE47-9F6F-940615BEBA41}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.35221248003654
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F656A67-4196-314C-B2D4-7B7CE01CE2D7}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDAA7533-68A7-084E-94C8-3FCA325013ED}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.58652032003738
+      SNAPOFFS 0
+      LENGTH 0.23430784
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80076BC4-DA6E-4C49-BC72-90E54BAF6B69}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70EB4457-8DE2-244D-8EBC-B0EAC43180E6}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+  >
+  <TRACK {1C7966D5-B895-3349-9D39-854F3A19AB29}
+    NAME C02-S02-CrumbledBag
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.40342496148317 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1C7966D5-B895-3349-9D39-854F3A19AB29}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 3.09201664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F8F8909-2976-AC46-AE49-4EFA3892935A}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDC790E4-4842-624E-A475-D8ADB9ECCBBA}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {733FB384-6FE9-D144-AC29-40006BB7595B}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC545E06-7C39-7445-8200-CFBA8F47FDEC}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {518FC643-A3FB-8148-B94C-7B299A021B91}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60D01E56-6970-A049-9AB5-E7A1B41F4945}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+  >
+  <TRACK {DAA8AEB9-9EEA-F042-AB66-F0C2993D20B8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DAA8AEB9-9EEA-F042-AB66-F0C2993D20B8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 15.0792192
+      SNAPOFFS 0
+      LENGTH 3.09201664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 4 0 0 4 0 -1 -1 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {70C9E855-7D6C-E446-8917-32402A5BD57A}
+      IID 42
+      NAME C02-S02-CrumbledBag.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {745B72E2-F285-1C49-BC77-E7B024FCE662}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/C02-S02-CrumbledBag.wav"
+      >
+    >
+  >
+>
