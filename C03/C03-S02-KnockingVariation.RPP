@@ -1,0 +1,715 @@
+<REAPER_PROJECT 0.1 "7.81/macOS-arm64" 1790647530 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 13
+  ZOOM 24.69058489086558 0 0
+  VZOOMEX 3.81454563 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN C03-S02-KnockingVariation
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 14.5 8
+  SELECTION2 14.5 8
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {93F030A6-67C5-B34D-8EC0-DA9CB0E3894B}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F84F7129-DECD-FE47-8ADA-2435216EA414}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {6BB6AD86-EFF0-164D-89AC-FE3D250510A9}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {8DAE9780-BA98-3447-A338-F569BF6916BF}
+    NAME Co2-S03-Tapping_FAV
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.08695635014794 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8DAE9780-BA98-3447-A338-F569BF6916BF}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.92857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AAB1229-4B01-8C45-8989-FBF49B07F859}
+      IID 5
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA7C4CA3-0C60-BD4D-AE30-B1104B254823}
+      <SOURCE SECTION
+        LENGTH 3.42857142857143
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/Projects/C01-S01-RainOnMetal/Co2-S03-Tapping_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEA07037-6E63-E148-ACC9-35C152020D42}
+      IID 5
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {426FD338-A356-B942-A27D-59CE16714E10}
+      <SOURCE SECTION
+        LENGTH 3.42857142857143
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/Projects/C01-S01-RainOnMetal/Co2-S03-Tapping_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 17.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B28CAA66-8CCE-A048-A33E-BABB96E76F64}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8F06056-DF6F-B842-B744-25661EE6E1CF}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+  >
+  <TRACK {19C35433-0897-DA4A-ABB2-E249024E5786}
+    NAME Co2-S03-Tapping_FAV
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.23169460501479 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {19C35433-0897-DA4A-ABB2-E249024E5786}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A1E3249-2FE3-234A-AF97-6B08B57D286B}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E52A39A-AE43-2240-B398-BDCF6C58118E}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82BAFC62-523A-A245-BD87-CCBD93C0227C}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F93CB5F-0C0A-5449-9147-2D79CDFF4B78}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C78BB63C-4889-CD44-9930-7ADA329E6760}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AFE84AB-F4DB-7740-B9F0-E5524829D130}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9978CE44-09D6-924B-8763-175DA7479BAC}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72F74300-20C4-DF4C-A36F-7FA4D5EC5E4F}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A03DDD2-7F0E-AB46-8992-CEBBF3058732}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D50894BA-CD7D-B947-B237-E8149B010289}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F428A8F8-67C3-264D-ADEE-12AE5CF945EF}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4642B1E3-4C93-CE4A-8D44-ABF71F2F0AA6}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {369135CB-7F3F-9948-99BD-925C4308F85F}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC24ED9E-6367-4F42-884A-483B47823699}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69342622-3183-D04A-81FE-A3273067105B}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FAC2765-76BC-5A4F-88B0-07ADB9D0ECDB}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26A28F8E-7587-CF4E-BF3D-1AAE5BDBF2D4}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A8250D3-4C9D-3A46-92DB-B7E05B1BC58B}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {476E3A82-DE2A-4A40-800D-8BE0980B66C7}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3669455-2F31-1940-AE5B-AEC7624B834E}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB2F95BD-0CFF-8E40-82D0-424AA90D383A}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D59B1E6-CD2B-A74A-A523-C2B800DA84B7}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EAAA500-6AAF-5B4A-9F10-B51B91C80520}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54C921DC-03C9-D04D-9366-50783257D352}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18E215AE-4D3C-A74A-A396-82C10BD787F0}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {916E0432-1433-BA4D-85AF-15F41787376B}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F69A8866-2CEF-EC47-8285-3950F6108330}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94A15E9D-7D4A-B248-9B3D-4B9B37E52000}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1E4884B-9305-F248-BBFF-F8E9C0FAF63B}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D4D25EE-262B-884A-A24C-22059F6FCFCD}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A8622DD-CEAC-BD45-BC06-A52B31E88AA4}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA75C0C9-B7CF-704F-B98A-64FA6ED2BBDA}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE22FC0D-4658-4B45-ADE8-3E69ABCDBD39}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A5F6176-74F1-D24D-B01E-B33B9893EF65}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+  >
+  <TRACK {9FC503C1-20FE-7E48-845D-13FF8A148356}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.88829815772236 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FC503C1-20FE-7E48-845D-13FF8A148356}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {591EB65C-74B2-8742-8F4D-1E8B262D6447}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {747539DA-6CB9-074A-A3EF-AAB447502C96}
+      <SOURCE SECTION
+        LENGTH 0.99999
+        MODE 3
+        STARTPOS 1.5
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A59CB6E1-8159-C74A-9267-3A78214DDEC6}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8AD8BCA-1F06-1648-9426-9D98499D4DE5}
+      <SOURCE SECTION
+        LENGTH 0.99999
+        MODE 3
+        STARTPOS 1.5
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8572AA8C-48A0-8F48-9721-6D0574605D9C}
+      IID 6
+      NAME Co2-S03-Tapping_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1606D51-73F5-3742-80BA-A02F0E27E3EB}
+      <SOURCE WAVE
+        FILE "Image-Line/FL Studio/Co2-S03-Tapping_FAV.wav"
+      >
+    >
+  >
+>
