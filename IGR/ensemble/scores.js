@@ -78,7 +78,7 @@ const SCORES = [
       { at: '4:00', groups: 'all',  ratio: 1.000, glide: 30 },
       { at: '5:00', spread: 1.000, glide: 30 },
       // Sound 3 enters on A and C only, frozen
-      { at: '5:30', groups: 'AC',   play: 'demo/C05-S03-TipTap.wav', fade: 10, level: 0.8 },
+      { at: '5:30', groups: 'AC',   play: 'demo/C04-S01-speaking.wav', fade: 10, level: 0.8 },
       { at: '6:00', groups: 'all',  stop: 'all', fade: 20 },
     ],
     end: '6:20',
@@ -90,7 +90,7 @@ const SCORES = [
     groups: 3,
     events: [
       // Both groups in unison, then only the groups drift apart…
-      { at: '0:00', groups: 'AB', play: 'demo/4', ratio: 1.00, fade: 10 },
+      { at: '0:00', groups: 'AB', play: 'demo/C05-S05-BurstEffect', ratio: 1.00, fade: 10 },
       { at: '0:15', ratio: 1.05, glide: 20 },
       { at: '0:15', groups: 'C', play: 'demo/door', ratio: 1.05, level: 0.25, fade: 30 },
       // …then each group also blurs inside
