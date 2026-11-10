@@ -57,7 +57,7 @@ const PTC_CREDIT = 'The work has been produced with sounds that were originally 
 
 const SCORES = [
   {
-    title: 'Group Test pt1',
+    title: 'Osad 8',
     credit: "All recordings by Gabriel Vigliensoni.",
     groups: 4,
     events: [
