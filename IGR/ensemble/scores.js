@@ -63,7 +63,7 @@ const SCORES = [
     events: [
       // Sound 1 in A, B and C: each group spreads slowly, groups stay together
       { at: '0:00', groups: 'AB',  play:  'demo/C09-S01-dither.wav', ratio: 2.01, fade: 3 },
-      { at: '0:00', groups: 'AB', play: 'demo/C09-S04-Pulse-fav.wav', ratio: 2.01, fade: 3 },
+      { at: '0:00', groups: 'B', play: 'demo/C09-S04-Pulse-fav.wav', ratio: 2.01, fade: 3 },
       // The groups start drifting against each other too
       { at: '0:30', spread: 1.04, glide: 30 },
       // At 2:00 sound 2 fades in on D over a minute…
