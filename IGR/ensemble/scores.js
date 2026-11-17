@@ -79,7 +79,7 @@ const SCORES = [
     //  { at: '5:30', groups: 'AC',   play: 'demo/C09-S03-Trinkle.wav', fade: 10, level: 0.8 },
      // { at: '6:00', groups: 'all',  stop: 'all', fade: 20 },
     ],
-    end: '6:20',
+    end: '3:00',
   },
 
   {
@@ -123,7 +123,7 @@ const SCORES = [
       { at: '0:05', ratio: 1.01, glide: 30 },
       { at: '0:05', groups: 'B', play: 'demo/C03-S01-repeater.mp3', ratio: 1.02, fade: 10 },
       { at: '0:25', ratio: 1.05, glide: 30},
-      { at: '5:00', groups: 'all', stop: 'all', fade: 5 },
+      { at: '3:00', groups: 'all', stop: 'all', fade: 5 },
     ],
   },  
 
@@ -137,7 +137,7 @@ const SCORES = [
       { at: '0:00', groups: 'B', play: 'demo/multitrack-test/b', ratio: 1.0},
       { at: '0:00', groups: 'C', play: 'demo/multitrack-test/c', ratio: 1.0},
       { at: '0:00', groups: 'D', play: 'demo/multitrack-test/d', ratio: 1.0},
-      { at: '5:00', groups: 'all', stop: 'all', fade: 1 },
+      { at: '3:00', groups: 'all', stop: 'all', fade: 1 },
     ],
   },   
 ];
