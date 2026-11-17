@@ -73,11 +73,11 @@ const SCORES = [
       { at: '2:15', groups: 'A',  play: 'demo/C09-S04-Pulse-fav.wav', ratio: 1.004, fade: 60 },
       // Everyone accelerates inside their group, then everything freezes
       { at: '3:00', groups: 'all',  ratio: 1.03, glide: 20 },
-      { at: '4:00', groups: 'all',  ratio: 1.000, glide: 30 },
-      { at: '5:00', spread: 1.000, glide: 30 },
+  //    { at: '4:00', groups: 'all',  ratio: 1.000, glide: 30 },
+    //  { at: '5:00', spread: 1.000, glide: 30 },
       // Sound 3 enters on A and C only, frozen
-      { at: '5:30', groups: 'AC',   play: 'demo/C09-S03-Trinkle.wav', fade: 10, level: 0.8 },
-      { at: '6:00', groups: 'all',  stop: 'all', fade: 20 },
+    //  { at: '5:30', groups: 'AC',   play: 'demo/C09-S03-Trinkle.wav', fade: 10, level: 0.8 },
+     // { at: '6:00', groups: 'all',  stop: 'all', fade: 20 },
     ],
     end: '6:20',
   },
