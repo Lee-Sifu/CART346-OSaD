@@ -49,7 +49,7 @@ const SOUND_DIR = '../assets/';
 
 // The sound buttons of Free mode, in button order
 const LOOP_SOUNDS = [
-   'demo/C08-S01-Warp.wav', 'demo/C08-S02-chirp.wav', 'demo/C08-S03-machine.wav', 'demo/C08-S04-machine2.0.wav', 'demo/C08-S05-Attack.wav',
+   'demo/C09-S01-dither.wav', 'demo/C09-S02-wobble.wav', 'demo/Co9-S03-Trinkle.wav', 'demo/C09-S04-Pulse-fav.wav', 'demo/C09-S05-signal.wav',
 ];
 
 // Credit line for every score made from the Productions Totem Contemporain sounds
@@ -62,21 +62,21 @@ const SCORES = [
     groups: 4,
     events: [
       // Sound 1 in A, B and C: each group spreads slowly, groups stay together
-      { at: '0:00', groups: 'AB',  play:  'demo/C08-S01-Warp.wav', ratio: 1.01, fade: 5 },
+      { at: '0:00', groups: 'AB',  play:  'demo/C09-S01-dither.wav', ratio: 1.01, fade: 5 },
       // The groups start drifting against each other too
       { at: '0:30', spread: 1.04, glide: 30 },
       // At 2:00 sound 2 fades in on D over a minute…
-      { at: '1:00', groups: 'C',    play: 'demo/C08-S02-chirp.wav', ratio: 1.010, fade: 60 },
-      { at: '1:00', groups: 'D',    play: 'demo/C08-S04-machine2.0.wav', ratio: 1.020, fade: 60 },
+      { at: '1:00', groups: 'C',    play: 'demo/C09-S02-wobble.wav', ratio: 1.010, fade: 60 },
+      { at: '1:00', groups: 'D',    play: 'demo/C09-S04-Pulse-fav.wav', ratio: 1.020, fade: 60 },
       // …while A, B, C crossfade from sound 1 to sound 2 over the same minute
-      { at: '1:15', groups: 'AB',  stop: 'demo/C08-S01-Warp.wav', fade: 60 },
-      { at: '2:15', groups: 'A',  play: 'demo/C08-S04-machine2.0.wav', ratio: 1.004, fade: 60 },
+      { at: '1:15', groups: 'AB',  stop: 'demo/C09-S01-dither.wav', fade: 60 },
+      { at: '2:15', groups: 'A',  play: 'demo/C09-S04-Pulse-fav.wav', ratio: 1.004, fade: 60 },
       // Everyone accelerates inside their group, then everything freezes
       { at: '3:00', groups: 'all',  ratio: 1.03, glide: 20 },
       { at: '4:00', groups: 'all',  ratio: 1.000, glide: 30 },
       { at: '5:00', spread: 1.000, glide: 30 },
       // Sound 3 enters on A and C only, frozen
-      { at: '5:30', groups: 'AC',   play: 'demo/C08-S03-machine.wav', fade: 10, level: 0.8 },
+      { at: '5:30', groups: 'AC',   play: 'demo/C09-S03-Trinkle.wav', fade: 10, level: 0.8 },
       { at: '6:00', groups: 'all',  stop: 'all', fade: 20 },
     ],
     end: '6:20',
@@ -88,7 +88,7 @@ const SCORES = [
     groups: 3,
     events: [
       // Both groups in unison, then only the groups drift apart…
-      { at: '0:00', groups: 'AB', play: 'demo/C08-S01-Warp.wav', ratio: 1.00, fade: 10 },
+      { at: '0:00', groups: 'AB', play: 'demo/C09-S01-dither.wav', ratio: 1.00, fade: 10 },
       { at: '0:15', ratio: 1.05, glide: 20 },
       { at: '0:15', groups: 'C', play: 'demo/door', ratio: 1.05, level: 0.25, fade: 30 },
       // …then each group also blurs inside
