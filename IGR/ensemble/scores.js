@@ -70,7 +70,7 @@ const SCORES = [
       { at: '1:00', groups: 'C',    play: 'demo/C09-S02-wobble.wav', ratio: 4.010, fade: 30 },
       { at: '1:00', groups: 'D',    play: 'demo/C09-S04-Pulse-fav.wav', ratio: 1.020, fade: 60 },
       // …while A, B, C crossfade from sound 1 to sound 2 over the same minute
-      { at: '1:15', groups: 'AB',  stop: 'demo/C09-S01-dither.wav', fade: 60 },
+      { at: '1:15', groups: 'AB',  stop: 'demo/C09-S03-Trinkle.wav', fade: 50 },
       { at: '2:15', groups: 'A',  play: 'demo/C09-S04-Pulse-fav.wav', ratio: 1.004, fade: 60 },
       // Everyone accelerates inside their group, then everything freezes
       { at: '3:00', groups: 'all',  ratio: 1.03, glide: 20 },
